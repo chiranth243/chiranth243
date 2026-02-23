@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💼 Software Engineer | ML & MLOps Enthusiast | System Design Focused<br><br>I am a results-driven Software Engineer passionate about building scalable, reliable, and production-grade systems. I focus on combining strong software engineering principles with machine learning and data-driven solutions to solve real-world problems.<br><br>🧠 Data Structures & Algorithms (DSA)<br>Strong analytical thinking with a solid foundation in problem-solving and optimization.<br><br>🏗️ System Design<br>Designing scalable, maintainable, and high-performance architectures for real-world applications.<br><br>🤖 Machine Learning & MLOps<br>End-to-end model development — from experimentation and training to deployment, monitoring, and optimization.<br><br>🐍 Python & SQL<br>Writing clean, efficient, and production-ready code with a focus on performance and scalability.<br><br>⚡ Apache Spark<br>Distributed data processing and big data engineering for large-scale systems.
 
 
